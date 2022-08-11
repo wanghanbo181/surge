@@ -1,0 +1,12 @@
+# NAME: StarzPlay
+# AUTHOR: whoname
+# UPDATED: 2022-08-10 22:36:19
+
+DOMAIN-SUFFIX,img.starz.com,Starz
+DOMAIN-SUFFIX,auth-ios.starz.com,Starz
+DOMAIN-SUFFIX,playdata.starz.com,Starz
+DOMAIN-SUFFIX,analytics.starz.com,Starz
+DOMAIN-SUFFIX,playauthcontent.starz.com,Starz
+DOMAIN-SUFFIX,mecdn8.starz.com,Starz
+DOMAIN-SUFFIX,auth.starz.com,Starz
+DOMAIN-SUFFIX,mecdn2.starz.com,Starz
